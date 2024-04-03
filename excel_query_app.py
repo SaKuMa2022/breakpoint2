@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-pip install openpyxl
+import openpyxl
 
 def main():
     st.title("Breakpoint Information from your own data")
